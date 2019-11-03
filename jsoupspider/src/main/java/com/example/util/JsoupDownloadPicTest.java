@@ -19,7 +19,7 @@ public class JsoupDownloadPicTest {
 
 
     public static void main(String[] args) throws Exception {
-       JsoupDownloadPicUtils.downloadPictures("内衣");
+       JsoupDownloadPicUtils.downloadPictures("动画");
     }
 
 }
